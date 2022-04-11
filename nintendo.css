@@ -39,9 +39,8 @@ body{
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    border-top: 4px solid gray;
-    border-right: 4px solid rgb(7, 7, 46);
-    border-bottom: 4px solid rgb(7, 7, 46);
+    border-right: 4px solid rgb(14, 14, 57);
+    border-bottom: 4px solid rgb(14, 14, 57);
 }
 
 .square-2{
